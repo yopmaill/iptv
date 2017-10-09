@@ -1,7 +1,8 @@
+
 #EXTM3U
 #EXTINF:0 type="stream" tvg-logo="http://tvron.net/static/canal/1-music-channel.png" audio-track="ron" aspect-ratio="16:9" , 1 Music Channel
 http://x1-music-channelx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0 type="stream" tvg-logo="http://tvron.net/static/canal/1-tv-neamt.png" audio-track="ron" aspect-ratio="4:3" , 1 Tv Neamt
+#EXTINF:0 type="stream" tvg-logo="http://tvron.net/static/canal/1-tv-neamt.png" , 1 Tv Neamt
 http://1tv.ambra.ro
 #EXTINF:0 type="stream" tvg-logo="http://tvron.net/static/canal/acasa-tv.png" audio-track="ron" aspect-ratio="16:9" , Acasa
 http://89.38.8.130:39417
