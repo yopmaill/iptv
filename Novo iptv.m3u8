@@ -1,0 +1,101 @@
+#EXTM3U
+
+----------- Brasil ---------
+#EXTINF:0 , Telecine Pipoca
+http://w03.duoplay.xyz/015/myStream/playlist.m3u8
+#EXTINF:0 , Curta!
+http://w01.duoplay.xyz/014/myStream/playlist.m3u8
+#EXTINF:0 , (FORA DO AR)
+http://w01.duoplay.xyz/013/myStream/playlist.m3u8
+#EXTINF:0 , Show de fé
+http://w01.duoplay.xyz/012/myStream/playlist.m3u8
+#EXTINF:0 , Tooncast
+http://w01.duoplay.xyz/011/myStream/playlist.m3u8
+#EXTINF:0 , BandSports
+http://w01.duoplay.xyz/010/myStream/playlist.m3u8
+#EXTINF:0 , MultiShow
+http://w01.duoplay.xyz/009/myStream/playlist.m3u8
+#EXTINF:0 , MTV
+http://w01.duoplay.xyz/008/myStream/playlist.m3u8
+#EXTINF:0 , SportTV 2
+http://w01.duoplay.xyz/007/myStream/playlist.m3u8
+#EXTINF:0 , Espn+
+http://w01.duoplay.xyz/006/myStream/playlist.m3u8
+#EXTINF:0 , Universal Channel
+http://w01.duoplay.xyz/003/myStream/playlist.m3u8
+#EXTINF:0 , Baky tv
+http://w01.duoplay.xyz/002/myStream/playlist.m3u8
+#EXTINF:0 , Telecine Premium
+http://w01.duoplay.xyz/005/myStream/playlist.m3u8
+#EXTINF:0 , Telecine Action
+http://w01.duoplay.xyz/004/myStream/playlist.m3u8
+#EXTINF:0 , Telecine Pipoca
+http://w01.duoplay.xyz/001/myStream/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/globo.png" , Globo
+http://w02.duoplay.media/060/myStream/playlist.m3u8
+#EXTINF:0 tvg-logo=" http://www.tvmagazine.com.br/imagens/icones/600/animalplanet.png" , Animal Planet
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/investigationb.png" , ID
+http://w02.duoplay.media/056/myStream/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/historyb.png" , History Channel
+http://w03.duoplay.media/069/myStream/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/h2.png" , H2
+http://w02.duoplay.media/054/myStream/playlist.m3u8
+
+--------------Romenia--------
+
+#EXTINF:0 tvg-logo="http://tvron.net/static/canal/1-music-channel.png" ,1 Music Channel
+http://x1-music-channelx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0 tvg-logo="http://tvron.net/static/canal/1-tv-neamt.png" , 1 Tv Neamt
+http://1tv.ambra.ro
+#EXTINF:0 tvg-logo="http://www.k2tvro.ca/img/icoTV/logo_AlphaMedia.jpg" , Alpha Media Tv
+http://webmobile.xdev.ro:81/tv27/playlist.m3u8
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-NfaWxwakEcM/UwX-_s9TaiI/AAAAAAAAEyU/hBAQLO-VoiI/s320/ztvap.PNG" , Apollonia Tv
+http://193.239.212.6:50000/apollonia
+#EXTINF:0 tvg-logo="http://tvron.net/static/canal/atomic-tv.png" , Atomic Tv
+http://5.154.185.153/hls/live.m3u8
+#EXTINF:0 tvg-logo="http://www.infobanat.ro/imagini/banat-tv-site.png" , Banat Tv
+http://81.18.66.155:1935/live/banat-tv/playlist.m3u8
+#EXTINF:0 tvg-logo="http://i49.photobucket.com/albums/f275/sorinqk/brasov%20tv_zps0ts7y3p2.jpg" , Brasov Tv
+rtmp://86.123.175.99:1935/live/myStream
+#EXTINF:0 tvg-logo="http://www.cromtel.ro/images/logo-cromtel-tv.png" , Cromtel Tv
+http://webmobile.xdev.ro:81/tv7/playlist.m3u8
+#EXTINF:0 , Digi 24
+http://81.196.0.126/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/-28QKtQRV9Rw/AAAAAAAAAAI/AAAAAAAAAAA/ElTAq-INxks/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" , Ibs Tv
+http://s1.streamnet.ro:8006/stream.flv
+#EXTINF:0 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/1/1a/Informatia_TV_Baia_Mare.jpg/revision/latest?cb=20161213140933" , Informatia Tv Baia Mare
+http://s1.streamnet.ro:8014/stream.flv
+#EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-NcIYcXKhe4g/UWaPAiJU5eI/AAAAAAAACv8/pE_xh84r6Lo/s320/zdesc%C4%83rcare.jpg" , Intermedia Sv
+http://83.103.150.198:8080
+#EXTINF:0 channelId="1339" , Jurnal Tv
+http://flux.jtv.md/jtv-540p.flv
+#EXTINF:0 tvg-logo="http://www.ntvonline.ro/assets/images/neptun-tv-constanta.png" , Neptun Tv
+http://93.114.77.11/live/ntv/index.m3u8
+#EXTINF:0 tvg-logo="http://www.orizonttv.ro/wp-content/uploads/2017/01/sigla_small.png" , Orizont Tv Tg. Lapus
+http://89.45.164.236:8048/stream.flv
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-zBSySPzd3uc/UaCuleJ1xRI/AAAAAAAACCU/tLorQL7_1Cg/s1600/pro-tv-chisinau.jpg" , ProTV Chisinau
+http://hls.protv.md/hls/protv.m3u8
+#EXTINF:0 channelId="1976" , Publika Tv
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:0 tvg-logo="http://sangeorztv.ro/wp-content/uploads/2015/01/logoSTV.png" , Sangeorz Tv
+http://s2.streamnet.ro:8035/stream.flv
+#EXTINF:0 tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/1/7/0/3/17030464/17030464,192x192,r:7.jpg" , Show Time Iq Movie Television
+http://mediafilmcenter.ro:1935/live/myStream/chunklist_w1594518285.m3u8
+#EXTINF:0 tvg-logo="http://www.somaxtv.com/wp-content/uploads/2014/08/LOGO-SOMAX-p-1170x480.png" , Somax Tv
+http://webmobile.xdev.ro:81/tv12/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.botosaninecenzurat.ro/wp-content/uploads/2017/01/Sigla-buna-Bt-TeleM-m.png" , Tele M Botosani
+http://webmobile.xdev.ro:81/tv11/playlist.m3u8
+#EXTINF:0 tvg-logo="http://telemneamt.net/wp-content/uploads/2015/06/Logo-repr-TeleM.png" , Tele M Neamt
+http://telem.ambra.ro
+#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-LyuWuW0-hAA/UcAeb0ovBII/AAAAAAAADPQ/b1Wc3SwaCkI/s320/Logo+Tele+Moldova.jpg" , Tele Moldova
+http://webmobile.xdev.ro:81/tv5/playlist.m3u8
+#EXTINF:0 tvg-logo="http://tvron.net/static/canal/telestar-7.png" , Telestar Tv
+http://193.34.109.10:8090
+#EXTINF:0 tvg-logo="http://www.travelmix.ro/wp-content/uploads/2016/04/travelmix-3.png" , Travel Mix
+http://89.38.8.131:39520
+#EXTINF:0 tvg-logo="http://www.tvbuzau.ro/wp-content/uploads/2016/07/tv-buzau-logo.png" , Tv Buzau
+http://95.77.16.72:81/tv20/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.tvsudest.ro/wp-content/uploads/2016/12/live.jpg" , Tv Sud Est Rm. Sarat
+http://iptv.tvsatrm.ro/livestream/tvse.m3u8
+
